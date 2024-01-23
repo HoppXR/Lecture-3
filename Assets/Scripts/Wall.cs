@@ -17,6 +17,5 @@ public class Wall : MonoBehaviour
                 Instantiate(block, new Vector3(x,y,0), Quaternion.identity);
             }
         }
-
     }
 }
